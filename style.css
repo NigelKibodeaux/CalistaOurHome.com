@@ -27,6 +27,19 @@ h2 {
     font-family: sans-serif;
     font-size: 18px;
 }
+form#mc-embedded-subscribe-form {
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 0;
+}
+form#mc-embedded-subscribe-form input#mc-embedded-subscribe.button {
+    background-color: #edd268;
+    color: black;
+    text-transform: uppercase;
+    display: block;
+    margin: auto;
+}
 table {
     width: 400px;
     margin: auto;
