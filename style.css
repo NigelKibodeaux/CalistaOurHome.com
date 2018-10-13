@@ -1,0 +1,69 @@
+.gold { color:#edd268 }
+.red { color: #7f2914; }
+.blue { color: #859197; }
+.green { color: #797f65; }
+
+body {
+    font-family: 'Ostrich Sans', sans-serif;
+    padding: 0 0 30px 0;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-image: url('CalistaDonlin_Main Image.jpg');
+    background-size: cover;
+    color: white;
+    padding: 40px;
+}
+header img {
+    height: 60px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 70px;
+    line-height: 20px;
+}
+h2 {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+table {
+    width: 400px;
+    margin: auto;
+    border-collapse: collapse;
+}
+th {
+    padding: 20px
+}
+td {
+    padding: 10px;
+    border-bottom: 1px solid #dddddd;
+    vertical-align: top;
+    width: 50%;
+}
+td:last-child {
+    text-align: right;
+    border-left: 1px solid #dddddd;
+}
+tr:last-child td {
+    border-bottom: none;
+    border-left: none;
+    text-align: center;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+th p {
+    text-align: center;
+    margin: 0;
+}
+th p.one { font-size: 80px; }
+th p.two { font-size: 57px; }
+h4 {
+    font-size: 30px;
+    margin: 0;
+}
+td p {
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: 100;
+}
