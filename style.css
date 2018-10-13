@@ -21,7 +21,8 @@ header img {
 }
 h1 {
     font-size: 70px;
-    line-height: 20px;
+    max-width: 650px;
+    margin: auto;
 }
 h2 {
     font-family: sans-serif;
@@ -40,8 +41,11 @@ form#mc-embedded-subscribe-form input#mc-embedded-subscribe.button {
     display: block;
     margin: auto;
 }
+label {
+    font-weight:600;
+}
 table {
-    width: 400px;
+    max-width: 400px;
     margin: auto;
     border-collapse: collapse;
 }
