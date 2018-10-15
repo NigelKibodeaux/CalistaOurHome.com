@@ -48,12 +48,9 @@ form#mc-embedded-subscribe-form input#mc-embedded-subscribe.button {
 label {
     font-weight:600;
 }
-h5 {
-    font-family: sans-serif;
+h4.whatever {
     max-width: 500px;
     margin: 30px auto;
-    font-weight: 500;
-    font-size: 19px;
 }
 table {
     max-width: 400px;
